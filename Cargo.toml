@@ -1,0 +1,8 @@
+[package]
+name = "fixedvec"
+version = "0.0.0"
+authors = ["Michele Lacchia <michelelacchia@gmail.com>"]
+edition = "2018"
+license = "ISC"
+
+[dependencies]
